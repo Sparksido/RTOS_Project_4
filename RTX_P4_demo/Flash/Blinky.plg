@@ -1,0 +1,2564 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\2B\MTE241\Project_4\RTX_P4_demo\P4_demo.uvproj
+Project File Date:  12/02/2016
+
+<h2>Output:</h2>
+Build target 'LPC1768 Flash'
+compiling RTX_Conf_CM.c...
+compiling system_LPC17xx.c...
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol get_num_bullets (referred from main.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol shoot (referred from main.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol update_bullets_in_frame (referred from main.o).
+Target not created
+Rebuild target 'LPC1768 Flash'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(48): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+ADC.c(48): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling spaceship.c...
+types.h(48): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling system_LPC17xx.c...
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol get_num_bullets (referred from main.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol shoot (referred from main.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol update_bullets_in_frame (referred from main.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(48): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol get_num_bullets (referred from main.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol shoot (referred from main.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol update_bullets_in_frame (referred from main.o).
+Target not created
+Rebuild target 'LPC1768 Flash'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(48): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+ADC.c(48): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling spaceship.c...
+types.h(48): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling system_LPC17xx.c...
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol get_num_bullets (referred from main.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol shoot (referred from main.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol update_bullets_in_frame (referred from main.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(48): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(48): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9232 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 26 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(48): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(48): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(157): error:  #20: identifier "bullet_p" is undefined
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(48): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(157): warning:  #186-D: pointless comparison of unsigned integer with zero
+bullet.c(157): warning:  #186-D: pointless comparison of unsigned integer with zero
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9248 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 16 Warning(s).
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(48): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling spaceship.c...
+types.h(48): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(48): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9256 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 38 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(49): error:  #20: identifier "list_node" is undefined
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(13): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): error:  #20: identifier "bullet_list_node_t" is undefined
+Main.c(207): error:  #20: identifier "current_node" is undefined
+Main.c(208): error:  #268: declaration may not appear after executable statement in block
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling spaceship.c...
+types.h(49): error:  #20: identifier "list_node" is undefined
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(49): error:  #20: identifier "list_node" is undefined
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(13): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(23): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(64): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(64): error:  #20: identifier "old_head" is undefined
+bullet.c(64): error:  #20: identifier "new_head" is undefined
+bullet.c(67): error:  #268: declaration may not appear after executable statement in block
+bullet.c(131): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "node_p" is undefined
+bullet.c(143): error:  #29: expected an expression
+bullet.c(143): error:  #65: expected a ";"
+bullet.c(168): error:  #136: struct "list_node" has no field "bullet_p"
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(49): error:  #20: identifier "list_node" is undefined
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(13): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): error:  #20: identifier "bullet_list_node_t" is undefined
+Main.c(207): error:  #20: identifier "current_node" is undefined
+Main.c(208): error:  #268: declaration may not appear after executable statement in block
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling spaceship.c...
+types.h(49): error:  #20: identifier "list_node" is undefined
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(49): error:  #20: identifier "list_node" is undefined
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(13): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(23): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(64): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(64): error:  #20: identifier "old_head" is undefined
+bullet.c(64): error:  #20: identifier "new_head" is undefined
+bullet.c(67): error:  #268: declaration may not appear after executable statement in block
+bullet.c(92): error:  #513: a value of type "struct list_node_t *" cannot be assigned to an entity of type "list_node_t *"
+bullet.c(93): error:  #513: a value of type "struct list_node_t *" cannot be assigned to an entity of type "list_node_t *"
+bullet.c(102): error:  #513: a value of type "list_node_t *" cannot be assigned to an entity of type "struct list_node_t *"
+bullet.c(106): error:  #513: a value of type "list_node_t *" cannot be assigned to an entity of type "struct list_node_t *"
+bullet.c(131): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "node_p" is undefined
+bullet.c(143): error:  #29: expected an expression
+bullet.c(143): error:  #65: expected a ";"
+bullet.c(168): error:  #136: struct "list_node" has no field "bullet_p"
+bullet.c(171): error:  #513: a value of type "struct list_node_t *" cannot be assigned to an entity of type "list_node_t *"
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(13): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): error:  #20: identifier "bullet_list_node_t" is undefined
+Main.c(207): error:  #20: identifier "current_node" is undefined
+Main.c(208): error:  #268: declaration may not appear after executable statement in block
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling spaceship.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(13): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(23): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(64): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(64): error:  #20: identifier "old_head" is undefined
+bullet.c(64): error:  #20: identifier "new_head" is undefined
+bullet.c(67): error:  #268: declaration may not appear after executable statement in block
+bullet.c(131): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "node_p" is undefined
+bullet.c(143): error:  #29: expected an expression
+bullet.c(143): error:  #65: expected a ";"
+bullet.c(168): error:  #136: struct "list_node" has no field "bullet_p"
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): error:  #20: identifier "bullet_list_node_t" is undefined
+Main.c(207): error:  #20: identifier "current_node" is undefined
+Main.c(208): error:  #268: declaration may not appear after executable statement in block
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(23): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(64): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(64): error:  #20: identifier "old_head" is undefined
+bullet.c(64): error:  #20: identifier "new_head" is undefined
+bullet.c(67): error:  #268: declaration may not appear after executable statement in block
+bullet.c(131): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "node_p" is undefined
+bullet.c(143): error:  #29: expected an expression
+bullet.c(143): error:  #65: expected a ";"
+bullet.c(168): error:  #136: struct "list_node" has no field "bullet_p"
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): error:  #20: identifier "bullet_list_node_t" is undefined
+Main.c(207): error:  #20: identifier "current_node" is undefined
+Main.c(208): error:  #268: declaration may not appear after executable statement in block
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(23): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(64): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(64): error:  #20: identifier "old_head" is undefined
+bullet.c(64): error:  #20: identifier "new_head" is undefined
+bullet.c(67): error:  #268: declaration may not appear after executable statement in block
+bullet.c(131): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "node_p" is undefined
+bullet.c(143): error:  #29: expected an expression
+bullet.c(143): error:  #65: expected a ";"
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): error:  #20: identifier "bullet_list_node_t" is undefined
+Main.c(207): error:  #20: identifier "current_node" is undefined
+Main.c(208): error:  #268: declaration may not appear after executable statement in block
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(15): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(23): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(64): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(64): error:  #20: identifier "old_head" is undefined
+bullet.c(64): error:  #20: identifier "new_head" is undefined
+bullet.c(67): error:  #268: declaration may not appear after executable statement in block
+bullet.c(131): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "node_p" is undefined
+bullet.c(143): error:  #29: expected an expression
+bullet.c(143): error:  #65: expected a ";"
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): error:  #20: identifier "bullet_list_node_t" is undefined
+Main.c(207): error:  #20: identifier "current_node" is undefined
+Main.c(208): error:  #268: declaration may not appear after executable statement in block
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(23): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(64): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(64): error:  #20: identifier "old_head" is undefined
+bullet.c(64): error:  #20: identifier "new_head" is undefined
+bullet.c(67): error:  #268: declaration may not appear after executable statement in block
+bullet.c(131): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "node_p" is undefined
+bullet.c(143): error:  #29: expected an expression
+bullet.c(143): error:  #65: expected a ";"
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(23): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(64): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(64): error:  #20: identifier "old_head" is undefined
+bullet.c(64): error:  #20: identifier "new_head" is undefined
+bullet.c(67): error:  #268: declaration may not appear after executable statement in block
+bullet.c(131): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #20: identifier "node_p" is undefined
+bullet.c(143): error:  #29: expected an expression
+bullet.c(143): error:  #65: expected a ";"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(63): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(63): error:  #20: identifier "old_head" is undefined
+bullet.c(63): error:  #20: identifier "new_head" is undefined
+bullet.c(66): error:  #268: declaration may not appear after executable statement in block
+bullet.c(130): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(138): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(140): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(140): error:  #20: identifier "node_p" is undefined
+bullet.c(142): error:  #29: expected an expression
+bullet.c(142): error:  #65: expected a ";"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(130): error:  #136: struct "bullet" has no field "remaining_frames"
+bullet.c(138): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(140): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(140): error:  #20: identifier "node_p" is undefined
+bullet.c(142): error:  #29: expected an expression
+bullet.c(142): error:  #65: expected a ";"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(137): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(139): error:  #20: identifier "node_p" is undefined
+bullet.c(141): error:  #29: expected an expression
+bullet.c(141): error:  #65: expected a ";"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(139): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(139): error:  #20: identifier "node_p" is undefined
+bullet.c(141): error:  #29: expected an expression
+bullet.c(141): error:  #65: expected a ";"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(141): error:  #20: identifier "bullet_list_node_t" is undefined
+bullet.c(141): error:  #29: expected an expression
+bullet.c(141): error:  #65: expected a ";"
+bullet.c(144): error:  #136: struct "list_node" has no field "bullet_p"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+bullet.c(144): error:  #136: struct "list_node" has no field "bullet_p"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(53): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9248 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 14 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(53): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9248 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 14 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling spaceship.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9248 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 38 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9248 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(19): error:  #130: expected a "{"
+bullet.c(22): error:  #20: identifier "bullet_p" is undefined
+bullet.c(64): warning:  #223-D: function "add_list_node" declared implicitly
+bullet.c(64): error:  #20: identifier "bullet_list" is undefined
+bullet.c(68): error:  #20: identifier "bullet_list" is undefined
+bullet.c(73): warning:  #223-D: function "remove_list_node" declared implicitly
+bullet.c(73): error:  #20: identifier "bullet_list" is undefined
+bullet.c(112): error:  #20: identifier "bullet_list" is undefined
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(18): error:  #130: expected a "{"
+bullet.c(21): error:  #20: identifier "bullet_p" is undefined
+bullet.c(63): warning:  #223-D: function "add_list_node" declared implicitly
+bullet.c(63): error:  #20: identifier "bullet_list" is undefined
+bullet.c(67): error:  #20: identifier "bullet_list" is undefined
+bullet.c(72): warning:  #223-D: function "remove_list_node" declared implicitly
+bullet.c(72): error:  #20: identifier "bullet_list" is undefined
+bullet.c(111): error:  #20: identifier "bullet_list" is undefined
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(20): error:  #130: expected a "{"
+bullet.c(68): warning:  #940-D: missing return statement at end of non-void function "get_num_bullets"
+bullet.c(89): warning:  #940-D: missing return statement at end of non-void function "create_bullet"
+bullet.c(104): warning:  #940-D: missing return statement at end of non-void function "create_bullet_list_node"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(25): error:  #130: expected a "{"
+bullet.c(68): warning:  #940-D: missing return statement at end of non-void function "get_num_bullets"
+bullet.c(89): warning:  #940-D: missing return statement at end of non-void function "create_bullet"
+bullet.c(104): warning:  #940-D: missing return statement at end of non-void function "create_bullet_list_node"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(26): error:  #130: expected a "{"
+bullet.c(68): warning:  #940-D: missing return statement at end of non-void function "get_num_bullets"
+bullet.c(89): warning:  #940-D: missing return statement at end of non-void function "create_bullet"
+bullet.c(104): warning:  #940-D: missing return statement at end of non-void function "create_bullet_list_node"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(18): error:  #130: expected a "{"
+bullet.c(26): warning:  #12-D: parsing restarts here after previous syntax error
+bullet.c(68): warning:  #940-D: missing return statement at end of non-void function "get_num_bullets"
+bullet.c(89): warning:  #940-D: missing return statement at end of non-void function "create_bullet"
+bullet.c(104): warning:  #940-D: missing return statement at end of non-void function "create_bullet_list_node"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(68): warning:  #940-D: missing return statement at end of non-void function "get_num_bullets"
+bullet.c(89): warning:  #940-D: missing return statement at end of non-void function "create_bullet"
+bullet.c(104): warning:  #940-D: missing return statement at end of non-void function "create_bullet_list_node"
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=8776 RO-data=9796 RW-data=72 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 18 Warning(s).
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(63): warning:  #223-D: function "add_list_node" declared implicitly
+bullet.c(72): warning:  #223-D: function "remove_list_node" declared implicitly
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol add_list_node (referred from bullet.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol remove_list_node (referred from bullet.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol add_list_node (referred from bullet.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol remove_list_node (referred from bullet.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(63): error:  #167: argument of type "bullet_t *" is incompatible with parameter of type "linked_list_t *"
+bullet.c(72): error:  #167: argument of type "list_node_t *" is incompatible with parameter of type "linked_list_t *"
+bullet.c(72): error:  #167: argument of type "linked_list_t *" is incompatible with parameter of type "list_node_t *"
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol add_list_node (referred from bullet.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol remove_list_node (referred from bullet.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling linked_list.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(9): error:  #154: expression must have struct or union type
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): error:  #154: expression must have struct or union type
+linked_list.c(54): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling linked_list.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): error:  #154: expression must have struct or union type
+linked_list.c(54): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling linked_list.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(54): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9292 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling linked_list.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9284 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'LPC1768 Flash'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+ADC.c(48): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling spaceship.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling system_LPC17xx.c...
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling linked_list.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9284 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 45 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'LPC1768 Flash'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+ADC.c(48): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling spaceship.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling system_LPC17xx.c...
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling linked_list.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9284 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 45 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'LPC1768 Flash'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+ADC.c(48): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling spaceship.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+compiling system_LPC17xx.c...
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling linked_list.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9284 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 45 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(19): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(127): error:  #147: declaration is incompatible with "int get_num_bullets(void)" (declared at line 16 of "bullet.h")
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(27): error:  #20: identifier "asteroid_image" is undefined
+asteroid.c(37): error:  #20: identifier "clear_asteroid_image" is undefined
+asteroid.c(84): error:  #20: identifier "bullet_list" is undefined
+asteroid.c(98): error:  #20: identifier "bullet_p" is undefined
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(111): error:  #147-D: declaration is incompatible with "void spawn_asteroid(pixel_t, pixel_t)" (declared at line 3 of "asteroid.h")
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(27): error:  #20: identifier "asteroid_image" is undefined
+asteroid.c(37): error:  #20: identifier "clear_asteroid_image" is undefined
+asteroid.c(84): error:  #20: identifier "bullet_list" is undefined
+asteroid.c(98): error:  #20: identifier "bullet_p" is undefined
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(111): error:  #147-D: declaration is incompatible with "void spawn_asteroid(pixel_t, pixel_t)" (declared at line 3 of "asteroid.h")
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(25): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(26): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(27): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(1768): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(27): error:  #20: identifier "asteroid_image" is undefined
+asteroid.c(37): error:  #20: identifier "clear_asteroid_image" is undefined
+asteroid.c(84): error:  #20: identifier "bullet_list" is undefined
+asteroid.c(98): error:  #20: identifier "bullet_p" is undefined
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling spaceship.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2012): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2012): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2012): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(84): error:  #20: identifier "bullet_list" is undefined
+asteroid.c(98): error:  #20: identifier "bullet_p" is undefined
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2012): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(98): error:  #20: identifier "bullet_p" is undefined
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2012): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(101): error:  #20: identifier "bullet_p" is undefined
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2012): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9264 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 18 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2012): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9264 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 18 Warning(s).
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+Main.c(88): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(117): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(166): warning:  #223-D: function "update_position" declared implicitly
+Main.c(207): warning:  #177-D: variable "current_node" was declared but never referenced
+Main.c(208): warning:  #177-D: variable "bullet" was declared but never referenced
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(297): warning:  #1-D: last line of file ends without a newline
+compiling spaceship.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9264 RO-data=9852 RW-data=88 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 55 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(243): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(279): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(311): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(99): warning:  #223-D: function "delete_bullet" declared implicitly
+asteroid.c(101): warning:  #223-D: function "draw_bullet" declared implicitly
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9552 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 29 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9552 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 16 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(113): warning:  #111-D: statement is unreachable
+asteroid.c(118): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9544 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 17 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(243): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(279): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(311): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9544 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 13 Warning(s).
+Build target 'LPC1768 Flash'
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9544 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9552 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 16 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(243): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(279): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(312): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9568 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 13 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9560 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 16 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(298): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9504 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 13 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(298): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9520 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 27 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Cannot Write to RAM for Flash Algorithms !
+Verify Failed!
+Rebuild target 'LPC1768 Flash'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(229): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(265): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(298): warning:  #1-D: last line of file ends without a newline
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+ADC.c(48): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling spaceship.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+compiling system_LPC17xx.c...
+compiling bullet.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling linked_list.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9520 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 58 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9512 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 16 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling asteroid.c...
+types.h(43): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(269): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(270): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(271): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2008): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9512 RO-data=16284 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 16 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(241): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(277): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(310): warning:  #1-D: last line of file ends without a newline
+compiling spaceship.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling linked_list.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9532 RO-data=17132 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 56 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(241): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(277): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(310): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9532 RO-data=17132 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 13 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'LPC1768 Flash'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(241): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(277): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(310): warning:  #1-D: last line of file ends without a newline
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+ADC.c(48): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling spaceship.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+compiling system_LPC17xx.c...
+compiling bullet.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+compiling linked_list.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+asteroid.h(8): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(117): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9540 RO-data=17132 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 58 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(241): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(277): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(282): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(310): warning:  #1-D: last line of file ends without a newline
+compiling bullet.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(128): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(120): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=9564 RO-data=17132 RW-data=96 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 42 Warning(s).
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(236): warning:  #223-D: function "handle_collisions" declared implicitly
+Main.c(236): error:  #20: identifier "ship_p" is undefined
+Main.c(245): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(281): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(286): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(314): warning:  #1-D: last line of file ends without a newline
+Target not created
+Rebuild target 'LPC1768 Flash'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(236): warning:  #223-D: function "handle_collisions" declared implicitly
+Main.c(236): error:  #20: identifier "ship_p" is undefined
+Main.c(245): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(281): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(286): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(314): warning:  #1-D: last line of file ends without a newline
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+ADC.c(48): warning:  #1-D: last line of file ends without a newline
+compiling RTX_Conf_CM.c...
+compiling spaceship.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+compiling system_LPC17xx.c...
+compiling bullet.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+bullet.c(128): warning:  #1-D: last line of file ends without a newline
+compiling linked_list.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+linked_list.c(25): warning:  #940-D: missing return statement at end of non-void function "add_list_node"
+linked_list.c(53): warning:  #1-D: last line of file ends without a newline
+compiling asteroid.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(261): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(262): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(263): warning:  #69-D: integer conversion resulted in truncation
+bitmaps.h(2000): warning:  #1-D: last line of file ends without a newline
+linked_list.h(5): warning:  #1-D: last line of file ends without a newline
+asteroid.c(120): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+Main.c(89): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(119): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(168): warning:  #223-D: function "update_position" declared implicitly
+Main.c(236): warning:  #223-D: function "handle_collisions" declared implicitly
+Main.c(245): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(281): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(286): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(314): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol handle_collisions (referred from main.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling collisions.c...
+collisions.c(11): error:  #20: identifier "ship_t" is undefined
+collisions.c(11): error:  #20: identifier "linked_list_t" is undefined
+collisions.c(11): error:  #20: identifier "linked_list_t" is undefined
+collisions.c(13): error:  #20: identifier "list_node_t" is undefined
+collisions.c(13): error:  #20: identifier "asteroid_node" is undefined
+collisions.c(16): error:  #132: expression must have pointer-to-struct-or-union type
+collisions.c(21): error:  #20: identifier "asteroid_t" is undefined
+collisions.c(21): error:  #20: identifier "asteroid_p" is undefined
+collisions.c(22): error:  #29: expected an expression
+collisions.c(24): error:  #132: expression must have pointer-to-struct-or-union type
+collisions.c(24): error:  #132: expression must have pointer-to-struct-or-union type
+collisions.c(29): error:  #20: identifier "bullet_node" is undefined
+collisions.c(29): error:  #132: expression must have pointer-to-struct-or-union type
+collisions.c(33): error:  #20: identifier "bullet_p" is undefined
+collisions.c(35): warning:  #223-D: function "delete_bullet" declared implicitly
+collisions.c(36): warning:  #223-D: function "delete_asteroid" declared implicitly
+collisions.c(44): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling collisions.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+collisions.h(3): warning:  #1-D: last line of file ends without a newline
+collisions.c(30): error:  #268: declaration may not appear after executable statement in block
+collisions.c(34): error:  #20: identifier "bullet_p" is undefined
+collisions.c(36): warning:  #223-D: function "delete_bullet" declared implicitly
+collisions.c(37): warning:  #223-D: function "delete_asteroid" declared implicitly
+collisions.c(45): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling collisions.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+collisions.h(3): warning:  #1-D: last line of file ends without a newline
+collisions.c(32): error:  #20: identifier "bullet_node" is undefined
+collisions.c(38): warning:  #223-D: function "delete_bullet" declared implicitly
+collisions.c(39): warning:  #223-D: function "delete_asteroid" declared implicitly
+collisions.c(47): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'LPC1768 Flash'
+compiling collisions.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+collisions.h(3): warning:  #1-D: last line of file ends without a newline
+collisions.c(38): warning:  #223-D: function "delete_bullet" declared implicitly
+collisions.c(39): warning:  #223-D: function "delete_asteroid" declared implicitly
+collisions.c(47): warning:  #1-D: last line of file ends without a newline
+collisions.c(17): warning: C3017W: bullet_p may be used before being set
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol handle_collisions (referred from main.o).
+Target not created
+Build target 'LPC1768 Flash'
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol handle_collisions (referred from main.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+collisions.h(3): warning:  #1-D: last line of file ends without a newline
+Main.c(90): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(120): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(169): warning:  #223-D: function "update_position" declared implicitly
+Main.c(237): warning:  #223-D: function "handle_collisions" declared implicitly
+Main.c(246): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(282): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(287): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(315): warning:  #1-D: last line of file ends without a newline
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol handle_collisions (referred from main.o).
+Target not created
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+collisions.h(3): warning:  #1-D: last line of file ends without a newline
+Main.c(90): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(120): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(169): warning:  #223-D: function "update_position" declared implicitly
+Main.c(246): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(282): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(287): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(315): warning:  #1-D: last line of file ends without a newline
+compiling collisions.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+collisions.h(3): warning:  #1-D: last line of file ends without a newline
+collisions.c(38): warning:  #223-D: function "delete_bullet" declared implicitly
+collisions.c(39): warning:  #223-D: function "delete_asteroid" declared implicitly
+collisions.c(47): warning:  #1-D: last line of file ends without a newline
+collisions.c(17): warning: C3017W: bullet_p may be used before being set
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=11670 RO-data=17130 RW-data=100 ZI-data=2748  
+".\Flash\Blinky.axf" - 0 Error(s), 21 Warning(s).
+Build target 'LPC1768 Flash'
+compiling collisions.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+collisions.h(3): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+collisions.c(40): warning:  #223-D: function "delete_bullet" declared implicitly
+collisions.c(41): warning:  #223-D: function "delete_asteroid" declared implicitly
+collisions.c(49): warning:  #1-D: last line of file ends without a newline
+collisions.c(19): warning: C3017W: bullet_p may be used before being set
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=11670 RO-data=17130 RW-data=100 ZI-data=2748  
+".\Flash\Blinky.axf" - 0 Error(s), 10 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'LPC1768 Flash'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+types.h(47): warning:  #1-D: last line of file ends without a newline
+spaceship.h(15): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+Main.c(90): warning:  #177-D: variable "SPEED" was declared but never referenced
+Main.c(120): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(169): warning:  #223-D: function "update_position" declared implicitly
+Main.c(246): warning:  #167-D: argument of type "unsigned char *" is incompatible with parameter of type "char *restrict"
+Main.c(282): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(287): warning:  #167-D: argument of type "int (*)()" is incompatible with parameter of type "void (*)(void)"
+Main.c(315): warning:  #1-D: last line of file ends without a newline
+compiling collisions.c...
+types.h(47): warning:  #1-D: last line of file ends without a newline
+bullet.h(10): warning:  #1-D: last line of file ends without a newline
+asteroid.h(9): warning:  #1-D: last line of file ends without a newline
+collisions.c(44): warning:  #223-D: function "delete_bullet" declared implicitly
+collisions.c(45): warning:  #223-D: function "delete_asteroid" declared implicitly
+collisions.c(57): warning:  #1-D: last line of file ends without a newline
+collisions.c(21): warning: C3017W: bullet_p may be used before being set
+linking...
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\rtx_conf_cm.o ignored.
+.\Flash\Blinky.axf: Warning: L6304W: Duplicate input file .\flash\system_lpc17xx.o ignored.
+Program Size: Code=11698 RO-data=17130 RW-data=104 ZI-data=2752  
+".\Flash\Blinky.axf" - 0 Error(s), 21 Warning(s).
+Load "N:\\2B\\MTE241\\Project_4\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
